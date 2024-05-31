@@ -1,3 +1,3 @@
 print("Hello World!")
-
-print("speed")
+speed = 100
+print(speed)
